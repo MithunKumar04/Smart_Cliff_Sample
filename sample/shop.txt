@@ -1,0 +1,6 @@
+This is the sample documenation page for shop
+shop locations:
+Chennai
+Erode
+Salem
+coimbatore
