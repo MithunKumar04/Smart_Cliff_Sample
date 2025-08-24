@@ -1,3 +1,7 @@
 This is the sample document of the orders placed by the customers.
+<<<<<<< HEAD
 order:
+=======
+orders:
+>>>>>>> main
 20/8/2025-Laptop
