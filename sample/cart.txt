@@ -1,0 +1,1 @@
+This is the folder that stores the cart details of the product the user need to buy
